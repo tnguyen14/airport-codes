@@ -379,12 +379,14 @@ header input:focus+.clear{display:block}}
 .card.dtn .background{background-image:url(images/card/dtn-redtail_panther.jpg)}
 .card.dtw .background{background-image:url(images/card/dtw-scott-beale.jpg)}
 .card.dub .background{background-image:url(images/card/dub-tearbringer.jpg)}
+.card.dud .background{background-image:url(images/card/dud-allison-brown.jpg)}
 .card.dus .background{background-image:url(images/card/dus-eole-wind.jpg)}
 .card.dvo .background{background-image:url(images/card/dvo-danes96.jpg)}
 .card.dwc .background{background-image:url(images/card/dwc-carter-s.jpg)}
 .card.dxb .background{background-image:url(images/card/dxb-roger-price.jpg)}
 .card.dxr .background{background-image:url(images/card/dxr-chris-burke.jpg)}
 .card.dyu .background{background-image:url(images/card/dyu-irene2005.jpg)}
+.card.dza .background{background-image:url(images/card/dza-sherwood.jpg)}
 .card.eas .background{background-image:url(images/card/eas-zaldunurdina.jpg)}
 .card.eat .background{background-image:url(images/card/eat-wendy-house.jpg)}
 .card.ebb .background{background-image:url(images/card/ebb-ltc-david-konop.jpg)}
@@ -719,6 +721,7 @@ header input:focus+.clear{display:block}}
 .card.nqy .background{background-image:url(images/card/nqy-christian-lee.jpg)}
 .card.nrn .background{background-image:url(images/card/nrn-sergey-melkonov.jpg)}
 .card.nrt .background{background-image:url(images/card/nrt-ryan-healy.jpg)}
+.card.nsn .background{background-image:url(images/card/nsn-marc-van-der-chijs.jpg)}
 .card.nte .background{background-image:url(images/card/nte-olivier-cabaret.jpg)}
 .card.nue .background{background-image:url(images/card/nue-mark.jpg)}
 .card.nwi .background{background-image:url(images/card/nwi-elliott-brown.jpg)}
@@ -1302,12 +1305,14 @@ header input:focus+.clear{display:block}}
 .detail.dtn{background-image:url(images/small/dtn-redtail_panther.jpg)}
 .detail.dtw{background-image:url(images/small/dtw-scott-beale.jpg)}
 .detail.dub{background-image:url(images/small/dub-tearbringer.jpg)}
+.detail.dud{background-image:url(images/small/dud-allison-brown.jpg)}
 .detail.dus{background-image:url(images/small/dus-eole-wind.jpg)}
 .detail.dvo{background-image:url(images/small/dvo-danes96.jpg)}
 .detail.dwc{background-image:url(images/small/dwc-carter-s.jpg)}
 .detail.dxb{background-image:url(images/small/dxb-roger-price.jpg)}
 .detail.dxr{background-image:url(images/small/dxr-chris-burke.jpg)}
 .detail.dyu{background-image:url(images/small/dyu-irene2005.jpg)}
+.detail.dza{background-image:url(images/small/dza-sherwood.jpg)}
 .detail.eas{background-image:url(images/small/eas-zaldunurdina.jpg)}
 .detail.eat{background-image:url(images/small/eat-wendy-house.jpg)}
 .detail.ebb{background-image:url(images/small/ebb-ltc-david-konop.jpg)}
@@ -1642,6 +1647,7 @@ header input:focus+.clear{display:block}}
 .detail.nqy{background-image:url(images/small/nqy-christian-lee.jpg)}
 .detail.nrn{background-image:url(images/small/nrn-sergey-melkonov.jpg)}
 .detail.nrt{background-image:url(images/small/nrt-ryan-healy.jpg)}
+.detail.nsn{background-image:url(images/small/nsn-marc-van-der-chijs.jpg)}
 .detail.nte{background-image:url(images/small/nte-olivier-cabaret.jpg)}
 .detail.nue{background-image:url(images/small/nue-mark.jpg)}
 .detail.nwi{background-image:url(images/small/nwi-elliott-brown.jpg)}
@@ -2225,12 +2231,14 @@ header input:focus+.clear{display:block}}
 .detail.dtn{background-image:url(images/medium/dtn-redtail_panther.jpg)}
 .detail.dtw{background-image:url(images/medium/dtw-scott-beale.jpg)}
 .detail.dub{background-image:url(images/medium/dub-tearbringer.jpg)}
+.detail.dud{background-image:url(images/medium/dud-allison-brown.jpg)}
 .detail.dus{background-image:url(images/medium/dus-eole-wind.jpg)}
 .detail.dvo{background-image:url(images/medium/dvo-danes96.jpg)}
 .detail.dwc{background-image:url(images/medium/dwc-carter-s.jpg)}
 .detail.dxb{background-image:url(images/medium/dxb-roger-price.jpg)}
 .detail.dxr{background-image:url(images/medium/dxr-chris-burke.jpg)}
 .detail.dyu{background-image:url(images/medium/dyu-irene2005.jpg)}
+.detail.dza{background-image:url(images/medium/dza-sherwood.jpg)}
 .detail.eas{background-image:url(images/medium/eas-zaldunurdina.jpg)}
 .detail.eat{background-image:url(images/medium/eat-wendy-house.jpg)}
 .detail.ebb{background-image:url(images/medium/ebb-ltc-david-konop.jpg)}
@@ -2565,6 +2573,7 @@ header input:focus+.clear{display:block}}
 .detail.nqy{background-image:url(images/medium/nqy-christian-lee.jpg)}
 .detail.nrn{background-image:url(images/medium/nrn-sergey-melkonov.jpg)}
 .detail.nrt{background-image:url(images/medium/nrt-ryan-healy.jpg)}
+.detail.nsn{background-image:url(images/medium/nsn-marc-van-der-chijs.jpg)}
 .detail.nte{background-image:url(images/medium/nte-olivier-cabaret.jpg)}
 .detail.nue{background-image:url(images/medium/nue-mark.jpg)}
 .detail.nwi{background-image:url(images/medium/nwi-elliott-brown.jpg)}
@@ -3148,12 +3157,14 @@ header input:focus+.clear{display:block}}
 .detail.dtn{background-image:url(images/large/dtn-redtail_panther.jpg)}
 .detail.dtw{background-image:url(images/large/dtw-scott-beale.jpg)}
 .detail.dub{background-image:url(images/large/dub-tearbringer.jpg)}
+.detail.dud{background-image:url(images/large/dud-allison-brown.jpg)}
 .detail.dus{background-image:url(images/large/dus-eole-wind.jpg)}
 .detail.dvo{background-image:url(images/large/dvo-danes96.jpg)}
 .detail.dwc{background-image:url(images/large/dwc-carter-s.jpg)}
 .detail.dxb{background-image:url(images/large/dxb-roger-price.jpg)}
 .detail.dxr{background-image:url(images/large/dxr-chris-burke.jpg)}
 .detail.dyu{background-image:url(images/large/dyu-irene2005.jpg)}
+.detail.dza{background-image:url(images/large/dza-sherwood.jpg)}
 .detail.eas{background-image:url(images/large/eas-zaldunurdina.jpg)}
 .detail.eat{background-image:url(images/large/eat-wendy-house.jpg)}
 .detail.ebb{background-image:url(images/large/ebb-ltc-david-konop.jpg)}
@@ -3488,6 +3499,7 @@ header input:focus+.clear{display:block}}
 .detail.nqy{background-image:url(images/large/nqy-christian-lee.jpg)}
 .detail.nrn{background-image:url(images/large/nrn-sergey-melkonov.jpg)}
 .detail.nrt{background-image:url(images/large/nrt-ryan-healy.jpg)}
+.detail.nsn{background-image:url(images/large/nsn-marc-van-der-chijs.jpg)}
 .detail.nte{background-image:url(images/large/nte-olivier-cabaret.jpg)}
 .detail.nue{background-image:url(images/large/nue-mark.jpg)}
 .detail.nwi{background-image:url(images/large/nwi-elliott-brown.jpg)}
