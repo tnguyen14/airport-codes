@@ -764,6 +764,7 @@ header input:focus+.clear{display:block}}
 .card.pek .background{background-image:url(images/card/pek-matt-weibo.jpg)}
 .card.pen .background{background-image:url(images/card/pen-john-ong.jpg)}
 .card.per .background{background-image:url(images/card/per-david-king.jpg)}
+.card.pew .background{background-image:url(images/card/pew-fast-track.jpg)}
 .card.pfo .background{background-image:url(images/card/pfo-karen-bryan.jpg)}
 .card.phc .background{background-image:url(images/card/phc-sabrinadan-photo.jpg)}
 .card.phf .background{background-image:url(images/card/phf-phf-airport.jpg)}
@@ -891,6 +892,7 @@ header input:focus+.clear{display:block}}
 .card.smf .background{background-image:url(images/card/smf-rich.jpg)}
 .card.sna .background{background-image:url(images/card/sna-peter-talke.jpg)}
 .card.snn .background{background-image:url(images/card/snn-wolf32at.jpg)}
+.card.sob .background{background-image:url(images/card/sob-peter-stehlik.jpg)}
 .card.soc .background{background-image:url(images/card/soc-wikisanktgerard.jpg)}
 .card.sof .background{background-image:url(images/card/sof-emilstefanov.jpg)}
 .card.sou .background{background-image:url(images/card/sou-stuart-bryant.jpg)}
@@ -1041,6 +1043,7 @@ header input:focus+.clear{display:block}}
 .card.yqt .background{background-image:url(images/card/yqt-p199.jpg)}
 .card.yqx .background{background-image:url(images/card/yqx-fuzzy-gerdes.jpg)}
 .card.yqy .background{background-image:url(images/card/yqy-cyqy.jpg)}
+.card.ysj .background{background-image:url(images/card/ysj-joanna-poe.jpg)}
 .card.ytz .background{background-image:url(images/card/ytz-fanagt.jpg)}
 .card.yul .background{background-image:url(images/card/yul-hussein-abdallah.jpg)}
 .card.yvr .background{background-image:url(images/card/yvr-rick-schwartz.jpg)}
@@ -1690,6 +1693,7 @@ header input:focus+.clear{display:block}}
 .detail.pek{background-image:url(images/small/pek-matt-weibo.jpg)}
 .detail.pen{background-image:url(images/small/pen-john-ong.jpg)}
 .detail.per{background-image:url(images/small/per-david-king.jpg)}
+.detail.pew{background-image:url(images/small/pew-fast-track.jpg)}
 .detail.pfo{background-image:url(images/small/pfo-karen-bryan.jpg)}
 .detail.phc{background-image:url(images/small/phc-sabrinadan-photo.jpg)}
 .detail.phf{background-image:url(images/small/phf-phf-airport.jpg)}
@@ -1817,6 +1821,7 @@ header input:focus+.clear{display:block}}
 .detail.smf{background-image:url(images/small/smf-rich.jpg)}
 .detail.sna{background-image:url(images/small/sna-peter-talke.jpg)}
 .detail.snn{background-image:url(images/small/snn-wolf32at.jpg)}
+.detail.sob{background-image:url(images/small/sob-peter-stehlik.jpg)}
 .detail.soc{background-image:url(images/small/soc-wikisanktgerard.jpg)}
 .detail.sof{background-image:url(images/small/sof-emilstefanov.jpg)}
 .detail.sou{background-image:url(images/small/sou-stuart-bryant.jpg)}
@@ -1967,6 +1972,7 @@ header input:focus+.clear{display:block}}
 .detail.yqt{background-image:url(images/small/yqt-p199.jpg)}
 .detail.yqx{background-image:url(images/small/yqx-fuzzy-gerdes.jpg)}
 .detail.yqy{background-image:url(images/small/yqy-cyqy.jpg)}
+.detail.ysj{background-image:url(images/small/ysj-joanna-poe.jpg)}
 .detail.ytz{background-image:url(images/small/ytz-fanagt.jpg)}
 .detail.yul{background-image:url(images/small/yul-hussein-abdallah.jpg)}
 .detail.yvr{background-image:url(images/small/yvr-rick-schwartz.jpg)}
@@ -2616,6 +2622,7 @@ header input:focus+.clear{display:block}}
 .detail.pek{background-image:url(images/medium/pek-matt-weibo.jpg)}
 .detail.pen{background-image:url(images/medium/pen-john-ong.jpg)}
 .detail.per{background-image:url(images/medium/per-david-king.jpg)}
+.detail.pew{background-image:url(images/medium/pew-fast-track.jpg)}
 .detail.pfo{background-image:url(images/medium/pfo-karen-bryan.jpg)}
 .detail.phc{background-image:url(images/medium/phc-sabrinadan-photo.jpg)}
 .detail.phf{background-image:url(images/medium/phf-phf-airport.jpg)}
@@ -2743,6 +2750,7 @@ header input:focus+.clear{display:block}}
 .detail.smf{background-image:url(images/medium/smf-rich.jpg)}
 .detail.sna{background-image:url(images/medium/sna-peter-talke.jpg)}
 .detail.snn{background-image:url(images/medium/snn-wolf32at.jpg)}
+.detail.sob{background-image:url(images/medium/sob-peter-stehlik.jpg)}
 .detail.soc{background-image:url(images/medium/soc-wikisanktgerard.jpg)}
 .detail.sof{background-image:url(images/medium/sof-emilstefanov.jpg)}
 .detail.sou{background-image:url(images/medium/sou-stuart-bryant.jpg)}
@@ -2893,6 +2901,7 @@ header input:focus+.clear{display:block}}
 .detail.yqt{background-image:url(images/medium/yqt-p199.jpg)}
 .detail.yqx{background-image:url(images/medium/yqx-fuzzy-gerdes.jpg)}
 .detail.yqy{background-image:url(images/medium/yqy-cyqy.jpg)}
+.detail.ysj{background-image:url(images/medium/ysj-joanna-poe.jpg)}
 .detail.ytz{background-image:url(images/medium/ytz-fanagt.jpg)}
 .detail.yul{background-image:url(images/medium/yul-hussein-abdallah.jpg)}
 .detail.yvr{background-image:url(images/medium/yvr-rick-schwartz.jpg)}
@@ -3542,6 +3551,7 @@ header input:focus+.clear{display:block}}
 .detail.pek{background-image:url(images/large/pek-matt-weibo.jpg)}
 .detail.pen{background-image:url(images/large/pen-john-ong.jpg)}
 .detail.per{background-image:url(images/large/per-david-king.jpg)}
+.detail.pew{background-image:url(images/large/pew-fast-track.jpg)}
 .detail.pfo{background-image:url(images/large/pfo-karen-bryan.jpg)}
 .detail.phc{background-image:url(images/large/phc-sabrinadan-photo.jpg)}
 .detail.phf{background-image:url(images/large/phf-phf-airport.jpg)}
@@ -3669,6 +3679,7 @@ header input:focus+.clear{display:block}}
 .detail.smf{background-image:url(images/large/smf-rich.jpg)}
 .detail.sna{background-image:url(images/large/sna-peter-talke.jpg)}
 .detail.snn{background-image:url(images/large/snn-wolf32at.jpg)}
+.detail.sob{background-image:url(images/large/sob-peter-stehlik.jpg)}
 .detail.soc{background-image:url(images/large/soc-wikisanktgerard.jpg)}
 .detail.sof{background-image:url(images/large/sof-emilstefanov.jpg)}
 .detail.sou{background-image:url(images/large/sou-stuart-bryant.jpg)}
@@ -3819,6 +3830,7 @@ header input:focus+.clear{display:block}}
 .detail.yqt{background-image:url(images/large/yqt-p199.jpg)}
 .detail.yqx{background-image:url(images/large/yqx-fuzzy-gerdes.jpg)}
 .detail.yqy{background-image:url(images/large/yqy-cyqy.jpg)}
+.detail.ysj{background-image:url(images/large/ysj-joanna-poe.jpg)}
 .detail.ytz{background-image:url(images/large/ytz-fanagt.jpg)}
 .detail.yul{background-image:url(images/large/yul-hussein-abdallah.jpg)}
 .detail.yvr{background-image:url(images/large/yvr-rick-schwartz.jpg)}
